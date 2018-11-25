@@ -1,6 +1,9 @@
 # PIC18F4550_PWM
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> fb2b73cd4e6dcaabb8e2fa784a910bc07e21431b
 There are only two functions in this library
 
 ********************Functions***********************
